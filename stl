@@ -1,0 +1,40 @@
+#include <iostream>
+#include <vector>
+#include <algorithm>
+using namespace std;
+
+int main()
+{
+    int n;
+    cout << "Enter number of elements: ";
+    cin >> n;
+
+    vector<int> v(n);
+
+    cout << "Enter elements:\n";
+    for (int i = 0; i < n; i++)
+        cin >> v[i];
+
+    // Sorting the vector
+    sort(v.begin(), v.end());
+
+    cout << "Sorted elements: ";
+    for (int num : v)
+        cout << num << " ";
+
+    cout << endl;
+
+    // Searching for an element
+    int key;
+    cout << "Enter element to find: ";
+    cin >> key;
+
+    auto it = find(v.begin(), v.end(), key);
+
+    if (it != v.end())
+        cout << "Element found at index: " << distance(v.begin(), it) << endl;
+    else
+        cout << "Element not found" << endl;
+
+    return 0;
+}
