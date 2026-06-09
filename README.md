@@ -1,6 +1,6 @@
 # Logic Practice
 
-This repository contains small programming and DSA practice problems that I solve regularly to improve my problem-solving skills and stay consistent with coding.
+This repository is a collection of programming and Data Structures & Algorithms (DSA) problems that I solve regularly as part of my continuous learning journey. It reflects my focus on strengthening problem solving skills, improving algorithmic thinking, and maintaining consistency in coding practice.
 
 ## Topics Practiced
 - Linked List
