@@ -19,7 +19,7 @@ This repository is a collection of programming and Data Structures & Algorithms 
 ## Purpose
 I created this repo mainly for:
 - Daily coding practice
-- Improving logic building
+- Improving logic building and foundations
 - Learning DSA fundamentals
 - Maintaining consistency on GitHub
 
