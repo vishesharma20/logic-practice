@@ -29,4 +29,4 @@ Most programs are written in:
 - Basic DSA implementations
 
 ## Note
-These are practice programs, so the code may be simple, experimental, or written in different styles while learning.
+These are practice programs, so the code may be simple, experimental, or written in different styles or ways while learning.
